@@ -6,13 +6,13 @@
         { name: "Asas Steel", logo: "/brands/asas-steel.png" },
         { name: "Gulf Steel", logo: "/brands/gulf-steel.png" },
         { name: "Jindal Steel & Power", logo: "/brands/jindal.png" },
-        { name: "Tata Steel", logo: "/brands/tata-steel.png" },
-        { name: "JSW Steel", logo: "/brands/jsw-steel.png" },
-        { name: "ArcelorMittal", logo: "/brands/arcelormittal.png" },
-        { name: "POSCO", logo: "/brands/posco.png" },
-        { name: "Nippon Steel", logo: "/brands/nippon.png" },
-        { name: "Baosteel", logo: "/brands/baosteel.png" },
-        { name: "ThyssenKrupp", logo: "/brands/thyssenkrupp.png" },
+        // { name: "Tata Steel", logo: "/brands/tata-steel.png" },
+        // { name: "JSW Steel", logo: "/brands/jsw-steel.png" },
+        // { name: "ArcelorMittal", logo: "/brands/arcelormittal.png" },
+        // { name: "POSCO", logo: "/brands/posco.png" },
+        // { name: "Nippon Steel", logo: "/brands/nippon.png" },
+        // { name: "Baosteel", logo: "/brands/baosteel.png" },
+        // { name: "ThyssenKrupp", logo: "/brands/thyssenkrupp.png" },
     ];
 
     // Duplicate brands for seamless infinite scroll

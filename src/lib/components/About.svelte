@@ -6,38 +6,37 @@
 				<h2 class="section-title">Excellence in Building Materials</h2>
 				<div class="about-text serif">
 					<p>
-						SunWorld Building Material LLC stands as one of the UAE's premier distributors and retailers 
-						of building materials. Since our establishment in 2007, we have cultivated a robust network 
-						of showrooms and warehouses throughout the country, delivering unwavering reliability and 
-						seamless service to every client.
+						Sun World Building Materials Trading LLC is one of the leading distributors and retailers
+						of building materials in the UAE. Established in 2004, we have built a strong reputation
+						for providing high-quality building materials including structural steel, marine and plywood timber,
+						waterproofing systems, paints, cement, safety equipment and clothing.
 					</p>
 					<p>
-						From our inception, our commitment has been clear: provide exceptional quality products at 
-						competitive prices. Today, with an extensive catalog exceeding 30,000 products and an 
-						unwavering focus on customer satisfaction, we continue to set the standard for excellence 
-						in the building materials industry.
+						With our strategic location in Ras Al Khor Industrial Area and comprehensive inventory,
+						we serve contractors, developers, and individual builders across the UAE with reliable
+						supply and competitive pricing.
 					</p>
 				</div>
 				<div class="about-features">
 					<div class="feature">
 						<div class="feature-icon">✦</div>
 						<div class="feature-text">
-							<div class="feature-title">Quality Assured</div>
-							<div class="feature-desc">Every product meets rigorous standards</div>
+							<div class="feature-title">Wide Range</div>
+							<div class="feature-desc">Comprehensive selection of building materials</div>
 						</div>
 					</div>
 					<div class="feature">
 						<div class="feature-icon">✦</div>
 						<div class="feature-text">
-							<div class="feature-title">Competitive Pricing</div>
-							<div class="feature-desc">Best value without compromise</div>
+							<div class="feature-title">Quality Products</div>
+							<div class="feature-desc">Trusted brands and materials</div>
 						</div>
 					</div>
 					<div class="feature">
 						<div class="feature-icon">✦</div>
 						<div class="feature-text">
-							<div class="feature-title">Nationwide Network</div>
-							<div class="feature-desc">Showrooms and warehouses across UAE</div>
+							<div class="feature-title">Reliable Service</div>
+							<div class="feature-desc">Consistent supply and delivery</div>
 						</div>
 					</div>
 				</div>
@@ -45,20 +44,20 @@
 			<div class="about-visual">
 				<div class="visual-card card-1">
 					<div class="card-inner">
-						<div class="card-number">2007</div>
+						<div class="card-number">2004</div>
 						<div class="card-label">Established</div>
 					</div>
 				</div>
 				<div class="visual-card card-2">
 					<div class="card-inner">
-						<div class="card-number">30K+</div>
-						<div class="card-label">Products</div>
+						<div class="card-number">Wide</div>
+						<div class="card-label">Range</div>
 					</div>
 				</div>
 				<div class="visual-card card-3">
 					<div class="card-inner">
-						<div class="card-number">100%</div>
-						<div class="card-label">Satisfaction</div>
+						<div class="card-number">UAE</div>
+						<div class="card-label">Coverage</div>
 					</div>
 				</div>
 			</div>

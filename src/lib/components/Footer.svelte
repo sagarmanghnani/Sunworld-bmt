@@ -6,13 +6,13 @@
 	<div class="container">
 		<div class="footer-top">
 			<div class="footer-brand">
-				<h3 class="brand-name">SunWorld</h3>
-				<p class="brand-tagline serif">Building Material LLC</p>
+				<h3 class="brand-name">Sun World</h3>
+				<p class="brand-tagline serif">Building Materials Trading LLC</p>
 				<p class="brand-desc">
-					Your trusted partner for premium building materials across the UAE since 2007.
+					Your trusted partner for premium building materials across the UAE since 2004.
 				</p>
 			</div>
-			
+
 			<div class="footer-links">
 				<div class="footer-column">
 					<h4 class="column-title">Quick Links</h4>
@@ -23,17 +23,17 @@
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</div>
-				
+
 				<div class="footer-column">
 					<h4 class="column-title">Products</h4>
 					<ul>
-						<li><a href="#products">Cement & Concrete</a></li>
-						<li><a href="#products">Steel & Rebar</a></li>
-						<li><a href="#products">Tiles & Flooring</a></li>
-						<li><a href="#products">Paints & Coatings</a></li>
+						<li><a href="#products">Structural Steel</a></li>
+						<li><a href="#products">Timber & Plywood</a></li>
+						<li><a href="#products">Safety Equipment</a></li>
+						<li><a href="#products">Waterproofing</a></li>
 					</ul>
 				</div>
-				
+
 				<div class="footer-column">
 					<h4 class="column-title">Support</h4>
 					<ul>
@@ -43,22 +43,22 @@
 						<li><a href="#contact">Technical Support</a></li>
 					</ul>
 				</div>
-				
+
 				<div class="footer-column">
 					<h4 class="column-title">Connect</h4>
 					<ul>
-						<li><a href="tel:+97144XXXXXX">+971 4 XXX XXXX</a></li>
-						<li><a href="mailto:info@sunworlduae.com">info@sunworlduae.com</a></li>
-						<li>Sat-Thu: 8AM - 8PM</li>
-						<li>Dubai, UAE</li>
+						<li><a href="tel:+97143536209">+971 4 353 6209</a></li>
+						<li><a href="mailto:info@sunworldbmt.com">info@sunworldbmt.com</a></li>
+						<li><a href="tel:+97143536309">+971 4 353 6309 (Fax)</a></li>
+						<li>Ras Al Khor, Dubai, UAE</li>
 					</ul>
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="footer-bottom">
 			<div class="copyright">
-				<p>&copy; {currentYear} SunWorld Building Material LLC. All rights reserved.</p>
+				<p>&copy; {currentYear} Sun World Building Materials Trading LLC. All rights reserved.</p>
 			</div>
 			<div class="footer-meta">
 				<a href="#privacy">Privacy Policy</a>

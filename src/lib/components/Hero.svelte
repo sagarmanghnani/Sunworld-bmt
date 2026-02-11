@@ -14,28 +14,28 @@
 	
 	<div class="hero-content" class:loaded>
 		<div class="hero-badge">
-			<span>Established 2007</span>
+			<span>Established 2004</span>
 		</div>
 		
 		<h1 class="hero-title">
-			<span class="line">Building</span>
-			<span class="line delay-1">Excellence</span>
-			<span class="line delay-2">Since 2007</span>
+			<span class="line">Sun World</span>
+			<span class="line delay-1">Building Materials</span>
+			<span class="line delay-2">Trading LLC</span>
 		</h1>
-		
+
 		<p class="hero-subtitle serif">
-			Leading distributor of premium building materials across the UAE
+			Leading distributor and retailer of premium building materials across the UAE since 2004
 		</p>
-		
+
 		<div class="hero-stats">
 			<div class="stat">
-				<div class="stat-number">30,000+</div>
-				<div class="stat-label">Products</div>
+				<div class="stat-number">17+</div>
+				<div class="stat-label">Years Experience</div>
 			</div>
 			<div class="stat-divider"></div>
 			<div class="stat">
-				<div class="stat-number">17+</div>
-				<div class="stat-label">Years</div>
+				<div class="stat-number">Wide</div>
+				<div class="stat-label">Range</div>
 			</div>
 			<div class="stat-divider"></div>
 			<div class="stat">
@@ -90,9 +90,16 @@
 		text-align: center;
 		max-width: 1200px;
 		padding: 2rem;
+		padding-top: 6rem; /* Add extra top padding to prevent overlap with navbar */
 		opacity: 0;
 		transform: translateY(30px);
 		transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+	}
+	
+	@media (max-width: 768px) {
+		.hero-content {
+			padding-top: 8rem; /* More padding on mobile to account for navbar */
+		}
 	}
 	
 	.hero-content.loaded {
@@ -112,6 +119,14 @@
 		text-transform: uppercase;
 		margin-bottom: 2rem;
 		font-weight: 500;
+		position: relative;
+		top: 0;
+	}
+	
+	@media (max-width: 768px) {
+		.hero-badge {
+			margin-top: 1rem; /* Add margin on mobile to ensure spacing */
+		}
 	}
 	
 	.hero-title {

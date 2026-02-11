@@ -1,52 +1,52 @@
 <script>
 	const categories = [
 		{
-			name: 'Cement & Concrete',
-			description: 'Premium quality cement and ready-mix concrete solutions',
-			icon: '🏗️',
-			products: ['Portland Cement', 'Ready-Mix Concrete', 'Masonry Cement']
-		},
-		{
-			name: 'Steel & Rebar',
-			description: 'High-grade steel products for structural integrity',
+			name: 'Structural Steel',
+			description: 'High-quality steel products for construction projects',
 			icon: '⚙️',
-			products: ['Reinforcement Bars', 'Steel Beams', 'Wire Mesh']
+			products: ['Steel Beams', 'Reinforcement Bars', 'Structural Sections']
 		},
 		{
-			name: 'Bricks & Blocks',
-			description: 'Diverse range of construction blocks and bricks',
-			icon: '🧱',
-			products: ['Concrete Blocks', 'Clay Bricks', 'Hollow Blocks']
+			name: 'Timber & Plywood',
+			description: 'Marine and plywood timber for various applications',
+			icon: '🪵',
+			products: ['Marine Plywood', 'Construction Plywood', 'Timber Lumber']
 		},
 		{
-			name: 'Tiles & Flooring',
-			description: 'Elegant flooring solutions for every space',
-			icon: '◼️',
-			products: ['Ceramic Tiles', 'Porcelain', 'Natural Stone']
+			name: 'Cement & Building Materials',
+			description: 'Essential materials for construction projects',
+			icon: '🏗️',
+			products: ['Portland Cement', 'Building Sand', 'Aggregates']
 		},
 		{
-			name: 'Paints & Coatings',
-			description: 'Professional-grade paints and protective coatings',
+			name: 'Safety Equipment',
+			description: 'Protective gear and safety clothing for workers',
+			icon: '⛑️',
+			products: ['Safety Helmets', 'Protective Clothing', 'Safety Boots']
+		},
+		{
+			name: 'Waterproofing Systems',
+			description: 'Advanced solutions for water protection',
+			icon: '💧',
+			products: ['Waterproofing Membranes', 'Sealants', 'Coatings']
+		},
+		{
+			name: 'Paints & Chemicals',
+			description: 'Quality paints and chemical solutions',
 			icon: '🎨',
-			products: ['Interior Paint', 'Exterior Paint', 'Waterproofing']
+			products: ['Interior Paints', 'Exterior Paints', 'Specialty Chemicals']
 		},
 		{
-			name: 'Plumbing & Sanitary',
-			description: 'Complete plumbing and sanitary solutions',
-			icon: '🚰',
-			products: ['Pipes & Fittings', 'Fixtures', 'Water Heaters']
+			name: 'Wire Mesh',
+			description: 'Steel wire mesh for construction reinforcement',
+			icon: '🔗',
+			products: ['Reinforcement Mesh', 'Fencing Mesh', 'Hardware Cloth']
 		},
 		{
-			name: 'Electrical',
-			description: 'Comprehensive electrical supplies and components',
-			icon: '⚡',
-			products: ['Cables', 'Switches', 'Lighting Fixtures']
-		},
-		{
-			name: 'Insulation',
-			description: 'Thermal and acoustic insulation materials',
-			icon: '🛡️',
-			products: ['Foam Boards', 'Mineral Wool', 'Reflective Insulation']
+			name: 'General Building Supplies',
+			description: 'Additional materials for construction projects',
+			icon: '📦',
+			products: ['Fasteners', 'Hardware', 'Tools']
 		}
 	];
 </script>
@@ -54,10 +54,10 @@
 <section class="products" id="products">
 	<div class="container">
 		<div class="section-header">
-			<div class="section-label">Our Range</div>
-			<h2 class="section-title">30,000+ Premium Products</h2>
+			<div class="section-label">Our Products</div>
+			<h2 class="section-title">Complete Building Solutions</h2>
 			<p class="section-subtitle serif">
-				From foundation to finish, we provide everything you need for your building project
+				Comprehensive range of building materials including steel, wood, safety products, and more
 			</p>
 		</div>
 		

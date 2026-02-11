@@ -36,31 +36,31 @@
 						<div class="contact-icon">📧</div>
 						<div class="contact-content">
 							<div class="contact-label">Email</div>
-							<a href="mailto:info@sunworlduae.com" class="contact-value">info@sunworlduae.com</a>
+							<a href="mailto:info@sunworldbmt.com" class="contact-value">info@sunworldbmt.com</a>
 						</div>
 					</div>
-					
+
 					<div class="contact-item">
 						<div class="contact-icon">📞</div>
 						<div class="contact-content">
 							<div class="contact-label">Phone</div>
-							<a href="tel:+97144XXXXXX" class="contact-value">+971 4 XXX XXXX</a>
+							<a href="tel:+97143536209" class="contact-value">+971 4 353 6209</a>
 						</div>
 					</div>
-					
+
 					<div class="contact-item">
-						<div class="contact-icon">⏰</div>
+						<div class="contact-icon">📠</div>
 						<div class="contact-content">
-							<div class="contact-label">Business Hours</div>
-							<div class="contact-value">Sat-Thu: 8:00 AM - 8:00 PM</div>
+							<div class="contact-label">Fax</div>
+							<a href="tel:+97143536309" class="contact-value">+971 4 353 6309</a>
 						</div>
 					</div>
-					
+
 					<div class="contact-item">
 						<div class="contact-icon">📍</div>
 						<div class="contact-content">
-							<div class="contact-label">Head Office</div>
-							<div class="contact-value">Al Quoz, Dubai, UAE</div>
+							<div class="contact-label">Address</div>
+							<div class="contact-value">PO Box: 51275, Ras Al Khor, Industrial Area No.2<br/>10-B Street, Warehouse #6 Dubai - UAE</div>
 						</div>
 					</div>
 				</div>

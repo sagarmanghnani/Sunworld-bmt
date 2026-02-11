@@ -5,7 +5,7 @@
     const products = [
         {
             id: 1,
-            image: "/gallery/steel-rebar-1.jpg",
+            image: "/gallery/gulf.jpeg",
             title: "High-Grade Rebar",
             brand: "Qatar Steel",
             category: "rebar",
@@ -13,7 +13,7 @@
         },
         {
             id: 2,
-            image: "/gallery/steel-beams-1.jpg",
+            image: "/gallery/conares.jpeg",
             title: "Structural Steel Beams",
             brand: "Jindal Steel",
             category: "beams",
@@ -29,7 +29,7 @@
         },
         {
             id: 4,
-            image: "/gallery/coils-1.jpg",
+            image: "/gallery/conares.jpeg",
             title: "Steel Coils",
             brand: "Tata Steel",
             category: "coils",
@@ -37,7 +37,7 @@
         },
         {
             id: 5,
-            image: "/gallery/sheets-1.jpg",
+            image: "/gallery/conares.jpeg",
             title: "Steel Sheets",
             brand: "ArcelorMittal",
             category: "sheets",
@@ -61,7 +61,7 @@
         },
         {
             id: 8,
-            image: "/gallery/angles-1.jpg",
+            image: "/gallery/conares.jpeg",
             title: "Steel Angles",
             brand: "JSW Steel",
             category: "profiles",

@@ -1,5 +1,6 @@
 <script>
 	import { onMount } from "svelte";
+	import Logo from "./logo.svelte";
 
 	let scrolled = false;
 	let mobileMenuOpen = false;
@@ -27,10 +28,12 @@
 		<div class="nav-content">
 			<a href="/" class="logo">
 				<img
-					src="/images/logo2.png"
+					src="/images/removed-bg.png"
 					alt="SunWorld Building Materials Logo"
 					class="logo-img"
 				/>
+
+				<!-- <Logo></Logo> -->
 			</a>
 
 			<div class="nav-links" class:open={mobileMenuOpen}>
